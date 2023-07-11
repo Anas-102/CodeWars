@@ -28,3 +28,5 @@ var isSquare = function(n){
     else
         return false;
  }
+
+ isSquare(25);
